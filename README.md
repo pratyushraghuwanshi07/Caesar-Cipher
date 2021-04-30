@@ -1,5 +1,5 @@
 # Caesar-Cipher
-Here is some basic inforamtion on how a caesar cipher works
+Here is some basic information on how a caesar cipher works
 Both python(.py) and Jupyter Notebook(.ipynb) files are present. Just download or clone it to use it.
 
 To pass an encrypted message from one person to another, it is first necessary that both parties have the 'key' for the cipher, so that the sender may encrypt it and the receiver may decrypt it. For the caesar cipher, the key is the number of characters to shift the cipher alphabet.
